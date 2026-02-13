@@ -1,0 +1,31 @@
+ticket,category,priority
+Internet not working for 2 days,Technical,High
+App crashes immediately after update,Technical,High
+Unable to login using correct password,Account,High
+Password reset link not received,Account,Medium
+Charged twice for same transaction,Billing,High
+Payment failed but amount deducted,Billing,High
+Need invoice for last month,Billing,Low
+Slow internet speed during evenings,Technical,Medium
+Email change not reflecting in profile,Account,Low
+How to upgrade my subscription plan,Other,Low
+Server timeout error while using app,Technical,High
+Account suspended without reason,Account,High
+Refund not received yet,Billing,Medium
+Billing address update not working,Billing,Low
+App UI not loading properly,Technical,Medium
+Forgot password and cannot login,Account,High
+Payment gateway shows error,Billing,Medium
+App feature not working as expected,Technical,Medium
+Need help understanding pricing,Other,Low
+Unable to download invoice,Billing,Low
+Frequent disconnection issue,Technical,High
+Verification email expired,Account,Medium
+Card charged but service inactive,Billing,High
+App taking too long to load,Technical,Medium
+Account locked after multiple attempts,Account,High
+Need cancellation policy details,Other,Low
+Subscription renewed automatically,Billing,Medium
+Bug found in latest version,Technical,Medium
+Profile information not saving,Account,Low
+General support query,Other,Low
